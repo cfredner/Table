@@ -1,0 +1,239 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>NFL Table</title>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td colspan="18" class="nflAFC">American Football Conference - 2013 Regular Season</td>
+			</tr>
+			
+			<tr class="infoRow">
+				<div>
+				<td>AFC East Team</td>
+				<td><a href="http://www.nfl.com/standings?sort=OVERALL_WINS&order=desc&colSel=0">W</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_LOSSES&order=desc&colSel=1">L</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_TIES&order=desc&colSel=2">T</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_WIN_PCT&order=desc&colSel=3">Pct</a></td>
+				<td><a href="#">PF</a></td>
+				<td><a href="#">PA</a></td>
+				<td><a href="#">Net Pts</a></td>
+				<td><a href="#">TD</a></td>
+				<td><a href="#">Home</a></td>
+				<td><a href="#">Road</a></td>
+				<td><a href="#">Div</a></td>
+				<td><a href="#">Pct</a></td>
+				<td><a href="#">Conf</a></td>
+				<td><a href="#">Pct</a></td>
+				<td><a href="#">Non-Conf</a></td>
+				<td><a href="#">Streak</a></td>
+				<td><a href="#">Last 5</a></td>
+				</div>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=NE">New England Patriots</a></td>
+				<td>3</td>
+				<td>0</td>
+				<td>0</td>
+				<td class="pct">1.000</td>
+				<td>59</td>
+				<td>34</td>
+				<td>25</td>
+				<td>5</td>
+				<td>2-0</td>
+				<td>1-0</td>
+				<td>2-0</td>
+				<td>1.000</td>
+				<td>2-0</td>
+				<td>1.000</td>
+				<td>1-0</td>
+				<td>3W</td>
+				<td>3-0</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=MIA">Miami Dolphins</a></td>
+				<td>3</td>
+				<td>0</td>
+				<td>0</td>
+				<td class="pct">1.000</td>
+				<td>74</td>
+				<td>53</td>
+				<td>21</td>
+				<td>8</td>
+				<td>1-0</td>
+				<td>2-0</td>
+				<td>0-0</td>
+				<td>.000</td>
+				<td>2-0</td>
+				<td>1.000</td>
+				<td>1-0</td>
+				<td>3W</td>
+				<td>3-0</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=NYJ">New York Jets</a></td>
+				<td>2</td>
+				<td>1</td>
+				<td>0</td>
+				<td class="pct">.667</td>
+				<td>55</td>
+				<td>50</td>
+				<td>5</td>
+				<td>5</td>
+				<td>2-0</td>
+				<td>0-1</td>
+				<td>1-1</td>
+				<td>.500</td>
+				<td>1-1</td>
+				<td>.500</td>
+				<td>1-0</td>
+				<td>1W</td>
+				<td>2-1</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=BUF">Buffalo Bills</a></td>
+				<td>1</td>
+				<td>2</td>
+				<td>0</td>
+				<td class="pct">.333</td>
+				<td>65</td>
+				<td>73</td>
+				<td>-8</td>
+				<td>6</td>
+				<td>1-1</td>
+				<td>0-1</td>
+				<td>0-2</td>
+				<td>.000</td>
+				<td>0-2</td>
+				<td>.000</td>
+				<td>1-0</td>
+				<td>1L</td>
+				<td>1-2</td>
+			</tr>
+		</table>
+		<br />
+		<br />
+		
+		<table>
+			<tr>
+				<td colspan="18" class="nflNFC">American Football Conference - 2013 Regular Season</td>
+			</tr>
+			
+			<tr class="infoRow">
+				<div>
+				<td>NFC East Team</td>
+				<td><a href="http://www.nfl.com/standings?sort=OVERALL_WINS&order=desc&colSel=0">W</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_LOSSES&order=desc&colSel=1">L</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_TIES&order=desc&colSel=2">T</a></td>
+				<td><a href="http://www.nfl.com/standings?&sort=OVERALL_WIN_PCT&order=desc&colSel=3">Pct</a></td>
+				<td><a href="#">PF</a></td>
+				<td><a href="#">PA</a></td>
+				<td><a href="#">Net Pts</a></td>
+				<td><a href="#">TD</a></td>
+				<td><a href="#">Home</a></td>
+				<td><a href="#">Road</a></td>
+				<td><a href="#">Div</a></td>
+				<td><a href="#">Pct</a></td>
+				<td><a href="#">Conf</a></td>
+				<td><a href="#">Pct</a></td>
+				<td><a href="#">Non-Conf</a></td>
+				<td><a href="#">Streak</a></td>
+				<td><a href="#">Last 5</a></td>
+				</div>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=DAL">Dallas Cowboys</a></td>
+				<td>2</td>
+				<td>1</td>
+				<td>0</td>
+				<td class="pct">1.667</td>
+				<td>83</td>
+				<td>55</td>
+				<td>28</td>
+				<td>9</td>
+				<td>2-0</td>
+				<td>0-1</td>
+				<td>1-0</td>
+				<td>1.000</td>
+				<td>2-0</td>
+				<td>1.000</td>
+				<td>0-1</td>
+				<td>1W</td>
+				<td>2-1</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=PHI">Philadelphia Eagles</a></td>
+				<td>1</td>
+				<td>2</td>
+				<td>0</td>
+				<td class="pct">.333</td>
+				<td>79</td>
+				<td>86</td>
+				<td>-7</td>
+				<td>9</td>
+				<td>0-2</td>
+				<td>1-0</td>
+				<td>1-0</td>
+				<td>1.000</td>
+				<td>1-0</td>
+				<td>1.000</td>
+				<td>0-2</td>
+				<td>2L</td>
+				<td>1-2</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=NYG">New York Giants</a></td>
+				<td>0</td>
+				<td>3</td>
+				<td>0</td>
+				<td class="pct">.000</td>
+				<td>54</td>
+				<td>115</td>
+				<td>-61</td>
+				<td>6</td>
+				<td>0-1</td>
+				<td>0-2</td>
+				<td>0-1</td>
+				<td>.000</td>
+				<td>0-2</td>
+				<td>.000</td>
+				<td>0-1</td>
+				<td>3L</td>
+				<td>0-3</td>
+			</tr>
+			
+			<tr>
+				<td id="teamName"><a href="http://www.nfl.com/teams/profile?team=WAS">Washington Redskins</a></td>
+				<td>0</td>
+				<td>3</td>
+				<td>0</td>
+				<td class="pct">.000</td>
+				<td>67</td>
+				<td>98</td>
+				<td>-31</td>
+				<td>9</td>
+				<td>0-2</td>
+				<td>0-1</td>
+				<td>0-1</td>
+				<td>.000</td>
+				<td>0-3</td>
+				<td>.000</td>
+				<td>0-0</td>
+				<td>3L</td>
+				<td>0-3</td>
+			</tr>
+		</table>
+	</body>
+</html>
+
